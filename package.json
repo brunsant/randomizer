@@ -1,0 +1,16 @@
+{
+  "name": "place-name-of-your-project-over-here",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "npm install --prefix backend"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.5",
+    "@chakra-ui/react": "^1.8.3",
+    "@emotion/css": "^11.7.1",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "emotion": "^11.0.0",
+    "framer-motion": "^5.6.0"
+  }
+}
